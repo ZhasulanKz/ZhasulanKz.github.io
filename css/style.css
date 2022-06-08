@@ -1,5 +1,5 @@
 body {
-  background-image: url(rob-bates-y-Va-f4KKL0-unsplash.jpg);
+  background-image: url(../img/rob-bates-y-Va-f4KKL0-unsplash.jpg);
   background-size: 100%;
 }
 /*Чтобы переходил по адресу плавно*/
@@ -9,7 +9,7 @@ html {
 }
 .visitcard {
 	background: white;
-	background-image: url(bg-card2.png);
+	background-image: url(../img/bg-card2.png);
 	background-repeat: round;
 	max-width: 500px;
 	min-width: 500px;
@@ -117,7 +117,7 @@ html {
 .hr1 {
 	border: none;
   height: 1px;
-  background:url(hr1.png) no-repeat center;
+  background:url(../img/hr1.png) no-repeat center;
 }
 .description {
 	font-family: 'Roboto', sans-serif;
@@ -164,7 +164,7 @@ html {
 }
 .content {
 	background: white;
-	background-image: url(bg-btn.png);
+	background-image: url(../img/bg-btn.png);
 	background-repeat: round;
 	max-width: 500px;
 	min-width: 500px;
